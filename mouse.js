@@ -2,7 +2,7 @@ function Mouse(name, color) {
 	this.name = name;
 	this.color = color;
 	this.speak = function() {
-		console.log('Hello Everyone');
+		console.log('Hello everyone here!');
 	}
 }
 
