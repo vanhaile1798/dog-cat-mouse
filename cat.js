@@ -1,5 +1,5 @@
 function Cat() {
-	this.stomach = [];
+
 }
 
 Car.prototype.eat = function(mouse) {
