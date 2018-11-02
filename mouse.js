@@ -9,3 +9,5 @@ function Mouse(name, color) {
 let mickeyMouse = new Mouse('Mickey', 'black');
 
 mickeyMouse.speak();
+
+module.exports = Mouse;
