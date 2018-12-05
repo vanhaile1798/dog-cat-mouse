@@ -2,7 +2,7 @@ function Cat() {
 	this.stomach = [];
 }
 
-Car.prototype.eat = function(mouse) {
+Cat.prototype.eat = function(mouse) {
 	this.stomach.push(mouse);
 }
 
