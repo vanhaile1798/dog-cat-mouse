@@ -1,0 +1,22 @@
+{
+  "name": "git-coders-tokyo",
+  "version": "1.0.0",
+  "description": "Demo",
+  "main": "buffalo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanhaile1798/dog-cat-mouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanhaile1798/dog-cat-mouse/issues"
+  },
+  "homepage": "https://github.com/vanhaile1798/dog-cat-mouse#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
